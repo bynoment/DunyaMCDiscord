@@ -1,16 +1,16 @@
 modLoader="javafml" 
 loaderVersion="[41,)"
 issueTrackerURL="https://github.com/Sunekaer/Simple-Discord-Rich-Presence/issues"
-license="All Rights Reserved"
+license="Tüm Hakları Saklıdır"
 [[mods]] 
 modId="sdrp" 
 version="${file.jarVersion}" 
-displayName="Simple Discord Rich Presence" 
-displayURL="https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence"
+displayName="DunyaMC Discord Modu" 
+displayURL="https://dunyamc.com"
 logoFile="logo.png"
-authors="Sunekaer"
+authors="Arwalee"
 description='''
-Simple Discord Rich Presence
+DünyaMC Sunucusunda oynarken discordda sizi gösterir
 '''
 [[dependencies.sdrp]] #optional
     modId="forge"
