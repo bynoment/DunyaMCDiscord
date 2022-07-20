@@ -10,7 +10,7 @@ displayURL="https://dunyamc.com"
 logoFile="logo.png"
 authors="Arwalee"
 description='''
-DünyaMC Sunucusunda oynarken discordda sizi gösterir
+DünyaMC Sunucusunda oynarken discordda sizi gösterir.
 '''
 [[dependencies.sdrp]] #optional
     modId="forge"
